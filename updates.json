@@ -1,6 +1,5 @@
 {
-    "version": "1.0.1",
-    "changelog": "🌙 Agora com estilo visual ativado!",
-    "download_url": "https://github.com/dargoo1/nuxby/releases/download/v1.0.1/main.exe"
-  }
-  
+  "version": "1.0.1",
+  "changelog": "Melhorias visuais e correções de bugs",
+  "download_url": "https://github.com/dargoo1/nuxby/releases/download/v1.0.1/main.exe"
+}
